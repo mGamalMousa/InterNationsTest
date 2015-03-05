@@ -1,0 +1,1 @@
+{"requestUrl":"http://localhost/InterNationsTest/index.php/api/users_groups","requestMethod":"POST","requestBody":"user_id=1&group_id=1","headers":["Content-type","application/x-www-form-urlencoded","X_INTERNATIONS_EMAIL","admin@admin.com","X_INTERNATIONS_PASSWORD","password1"]}

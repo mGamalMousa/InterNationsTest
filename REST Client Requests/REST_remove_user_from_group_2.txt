@@ -1,0 +1,1 @@
+{"requestUrl":"http://localhost/InterNationsTest/index.php/api/users_groups/2","requestMethod":"DELETE","requestBody":"","headers":["X_INTERNATIONS_EMAIL","admin@admin.com","X_INTERNATIONS_PASSWORD","password1"]}

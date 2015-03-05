@@ -1,0 +1,1 @@
+{"requestUrl":"http://localhost/InterNationsTest/index.php/api/users","requestMethod":"POST","requestBody":"name=new user&password=pass12&password_confirmation=pass12&email=email@email.com","headers":["Content-type","application/x-www-form-urlencoded","X_INTERNATIONS_EMAIL","admin@admin.com","X_INTERNATIONS_PASSWORD","password1"]}

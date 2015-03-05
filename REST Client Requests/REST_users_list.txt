@@ -1,0 +1,1 @@
+{"requestUrl":"http://localhost/InterNationsTest/index.php/api/users","requestMethod":"GET","requestBody":"","headers":["X_INTERNATIONS_EMAIL","admin@admin.com","X_INTERNATIONS_PASSWORD","password1"]}
