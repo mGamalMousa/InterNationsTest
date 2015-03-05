@@ -13,3 +13,5 @@
 
 5. you can access live version throught this url:
 <br />http://labs.elhegraa.com/InterNationsTest
+
+6. you can check the UML and database model from the pdf file in the main directory
